@@ -14,17 +14,3 @@ Basic HTML template
 </html>
 
 
-Explanation:
-<!DOCTYPE html>	-Tells browser it's an HTML5 document
-<html>	Root element
-<head>	Metadata (title, CSS, scripts)
-<title>	Title of the page (shown in tab)
-<body>	Content visible to users
-
-🧱 Basic HTML Tags:
-<h1> to <h6>	Headings (h1 = largest)
-<p>	Paragraph
-<br>	Line break (no closing tag)
-<hr>	Horizontal line
-<strong>	Bold text
-<em>	Italic text
